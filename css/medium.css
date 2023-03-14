@@ -1,0 +1,15 @@
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+.bg-yellow {
+    background-color: #FFC017;
+}
+.border-bottom-1 {
+    border-bottom: 1px solid #222;
+}
+
+.altmenu {
+    text-decoration: none;
+
+}
